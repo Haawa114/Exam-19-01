@@ -1,0 +1,66 @@
+h1 {
+    color:black;
+    font-size: 36px;
+    font-family: 'serif';
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin:50px;
+    border-radius: 50px;
+}
+
+body{
+    background-color: #6699FF ;
+    align-self: baseline;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+}
+
+
+
+    article {
+        display:flex;
+        max-width: 750px ;
+        margin: auto;
+        font-size:16px ;
+        font-style: italic;
+        font-family: serif;
+            
+}
+
+.flex-container{
+    display:flex;
+    justify-content: center;
+    margin:auto
+    border-raduis:50px;
+    gap:150px;
+}
+
+
+  
+.flex-container > div {
+    background-color:lightblue;
+    margin:30px;
+    padding: 25px;
+    font-size:35px;
+    display:flex;
+    justify-content: center;
+    border-radius: 50px;
+
+}
+
+    
+
+a:link {
+    color:#FFFF99;
+  }
+  
+  a:visited {
+    color: #FF3300;
+  }
+  
+ 
